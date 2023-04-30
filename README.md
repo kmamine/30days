@@ -50,9 +50,8 @@ ______
 
 ## الموارد
 
-- اتنمنخنقبم
 
-- تطبيق [`#30DaysOfStreamlit`](https://share.streamlit.io/streamlit/30days/) الرسمي حيث يتم نشر التحديات اليومية
+-تطبيق [`#30DaysOfStreamlit`](https://share.streamlit.io/streamlit/30days/) الرسمي حيث يتم نشر التحديات اليومية
 - التحديثات اليومية على حسابنا  [Twitter](https://twitter.com/streamlit) و [LinkedIn](https://www.linkedin.com/company/streamlit/posts/?feedView=all)
 
 - وثائق [streamlit documentation](https://docs.streamlit.io/) و ورقة المراجعة [streamlit cheat sheet](https://docs.streamlit.io/library/cheatsheet)  كمرجع شامل
