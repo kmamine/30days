@@ -1,22 +1,23 @@
-# Setting up a local development environment
+# إعداد بيئة تطوير محلية
 
-Before we can actually start building Streamlit apps, we will first have to setup a development environment.
+قبل أن نبدأ فعليًا في إنشاء تطبيقات Streamlit ، سيتعين علينا أولاً إعداد بيئة تطوير.
 
-Let's start by installing and setting up a conda environment.
+لنبدأ بتثبيت وإعداد بيئة conda.
 
-## **Install conda**
-- Install `conda` by going to https://docs.conda.io/en/latest/miniconda.html and choose your operating system (Windows, Mac or Linux). 
-- Download and run the installer to install `conda`.
+## **تثبيت نظام conda**
+- قم بتنزيل وتثبيت conda من خلال الانتقال إلى https://docs.conda.io/en/latest/miniconda.html واختيار نظام التشغيل الخاص بك (Windows، Mac أو Linux).
+- ثمّ قم بتشغيل المثبّت لتثبيت conda.
 
-## **Create a new conda environment**
-Now that you have conda installed, let's create a conda environment for managing all the Python library dependencies.
 
-To create a new environment with Python 3.9, enter the following:
+## **إنشاء بيئة تطويرية جديدة في conda**
+الآن بعد تثبيت `conda` ، دعنا نقوم بإنشاء بيئة `conda` لإدارة جميع تبعيات مكتبات Python.
+
+لإنشاء بيئة جديدة باستخدام Python 3.9 ، قم بإدخال التالي:
+
 ```bash
 conda create -n stenv python=3.9
 ```
-
-where `create -n stenv` will create a conda environment named `stenv` and `python=3.9` will setup the conda environment with Python version 3.9.
+حيث `create -n stenv` سيقوم بإنشاء بيئة `conda` بإسم `stenv`، و `python=3.9` سيقوم بتثبيت Python بالإصدار 3.9 في البيئة التي تم إنشائها.
 
 ## **Activate the conda environment**
 
