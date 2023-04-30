@@ -35,8 +35,8 @@ conda activate stenv
 pip install streamlit
 ```
 
-## **Launching the Streamlit demo app**
-To launch the Streamlit demo app (Figure 1) type:
+## **تشغيل تطبيق Streamlit الديمو**
+لتشغيل تطبيق Streamlit demo (الشكل 1) ، اكتب الأمر التالي:
 ```bash
 streamlit hello
 ```
