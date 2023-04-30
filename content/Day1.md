@@ -19,17 +19,18 @@ conda create -n stenv python=3.9
 ```
 حيث `create -n stenv` سيقوم بإنشاء بيئة `conda` بإسم `stenv`، و `python=3.9` سيقوم بتثبيت Python بالإصدار 3.9 في البيئة التي تم إنشائها.
 
-## **Activate the conda environment**
+## **تفعيل بيئة conda**
 
-To use a conda environment that we had just created that is named `stenv`, enter the following into the command line:
+لكي تستخدم بيئة conda التي قمنا بإنشائها واسمها `stenv`، أدخل الأمر التالي في سطر الأوامر:
+
 
 ```bash
 conda activate stenv
 ```
 
-## **Install the Streamlit library**
+## **قم بتثبيت مكتبة Streamlit في البيئة الافتراضية**
 
-It's now time to install the `streamlit` library:
+حان الآن وقت تثبيت مكتبة streamlit:
 ```bash
 pip install streamlit
 ```
