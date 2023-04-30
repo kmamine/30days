@@ -18,11 +18,9 @@ ______
 
 
 
-<div dir="rtl">
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/30days/)
 
-</div >
 
 أكمل التحديات اليومية، شارك حلولك معنا على Twitter أو LinkedIn، واحصل على أشياء رائعة من Streamlit! 😎
 
@@ -52,6 +50,7 @@ ______
 
 ## الموارد
 
+- اتنمنخنقبم
 
 - تطبيق [`#30DaysOfStreamlit`](https://share.streamlit.io/streamlit/30days/) الرسمي حيث يتم نشر التحديات اليومية
 - التحديثات اليومية على حسابنا  [Twitter](https://twitter.com/streamlit) و [LinkedIn](https://www.linkedin.com/company/streamlit/posts/?feedView=all)
