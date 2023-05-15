@@ -1,9 +1,9 @@
-# عنصر  st.button 
+# عنصر  st.button
+تُسمح بعرض عنصر واجهة زر (Button Widget)
 
-                                                                       st.button تُسمح بعرض عنصر واجهة زر (Button Widget).
-`st.button` تُسمح بعرض عنصر واجهة زر (Button Widget).
+st.button .
 
-## What we're building?
+## ما الذي نقوم ببنائه؟
 
 A simple app that performs conditionally prints out alternative messages depending on whether the button was pressed or not.
 
