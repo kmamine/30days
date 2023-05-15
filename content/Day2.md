@@ -1,11 +1,9 @@
-# Building your first Streamlit app
+# بناء تطبيق Streamlit الأول الخاص بك
 
-## Fire up your IDE
+## اشعِل مُحرر البرمجة الخاص بك
 
-Fire up your IDE whether it be Atom, VS Code or even a cloud IDE such as GitPod or GitHub.dev.
-
-Create a file called `streamlit_app.py`
-
+قم بتشغيل برنامج IDE الخاص بك، سواء كان Atom أو VS Code أو حتى بيئة تطوير مثل GitPod أو GitHub.dev.
+أنشئ ملفًا يحمل اسم `streamlit_app.py`
 ## Entering your first lines of code
 
 To the newly created file, enter the following lines of code:
