@@ -1,6 +1,6 @@
 # عنصر  st.button 
 
-st.button تُسمح بعرض عنصر واجهة زر (Button Widget).
+                                                                       st.button تُسمح بعرض عنصر واجهة زر (Button Widget).
 `st.button` تُسمح بعرض عنصر واجهة زر (Button Widget).
 
 ## What we're building?
