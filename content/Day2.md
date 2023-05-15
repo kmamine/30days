@@ -2,9 +2,9 @@
 
 ## اشعِل مُحرر البرمجة الخاص بك
 
-قم بتشغيل برنامج IDE الخاص بك، سواء كان Atom أو VS Code أو حتى بيئة تطوير مثل GitPod أو GitHub.dev.
+1- قم بتشغيل برنامج IDE الخاص بك، سواء كان Atom أو VS Code أو حتى بيئة تطوير مثل GitPod أو GitHub.dev.
 
-أنشئ ملفًا يحمل اسم `streamlit_app.py`
+2- أنشئ ملفًا يحمل اسم `streamlit_app.py`
 ## Entering your first lines of code
 
 To the newly created file, enter the following lines of code:
