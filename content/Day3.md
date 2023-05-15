@@ -1,6 +1,6 @@
 # st.button
 
-`st.button` allows the display of a button widget.
+`st.button` تُسمح بعرض عنصر واجهة زر (Button Widget).
 
 ## What we're building?
 
